@@ -1,4 +1,4 @@
-# Signature
+# Signature Forgery Detection
 ### Details of folder is as follows -
 - Signature-Forgery.ipynb file contains model
 - Forged Images contain dataset for this project in form of real 
