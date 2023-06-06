@@ -6,7 +6,7 @@
 - Real Images contain dataset for this project in form of real 
 - "training folder" will save the trained images(this folder will create when you will execute the code)
 
-### Some Important points
+## Some Important points
 - Images are stored in the format : XXXZZZ_YYY
 - XXX denotes id of the person who has signed on the document(ex -001)
 - ZZZ denotes the id of the person to whom the sign belongs in actual(ex- 001)
